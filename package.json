@@ -1,0 +1,20 @@
+{
+  "name": "hotel_booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mailgun-js": "^0.22.0",
+    "mailgun.js": "^3.5.6",
+    "nodemailer": "^6.6.3",
+    "stripe": "^8.165.0"
+  }
+}
